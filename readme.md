@@ -1,5 +1,6 @@
-﻿
+# c++_study
 
-[c++20](C++20/c++20.md)
 
-[DesignPattern](DesignPattern/designPattern.md)
+[c++ 20](C++20/c++20.md)
+
+[디자인패턴]
